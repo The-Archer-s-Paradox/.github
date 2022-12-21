@@ -1,3 +1,3 @@
 # The Archer's Paradox
 
-The complete archery balistics solution
+The complete archery balistics solution.
